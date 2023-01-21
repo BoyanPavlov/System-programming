@@ -1,0 +1,508 @@
+test3
+test5
+test5
+test5
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 176768  8368 ?        Ss   яну18   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    яну18   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   яну18   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   яну18   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   яну18   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   яну18   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/0:0H-kblockd]
+root          10  0.0  0.0      0     0 ?        I<   яну18   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    яну18   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    яну18   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        R    яну18   0:19 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/0]
+root          18  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/0]
+root          19  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/1]
+root          20  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/1]
+root          21  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/1]
+root          22  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/1]
+root          24  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/1:0H-events_highpri]
+root          25  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/2]
+root          26  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/2]
+root          27  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/2]
+root          28  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/2]
+root          30  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/2:0H-events_highpri]
+root          31  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/3]
+root          32  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/3]
+root          33  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/3]
+root          34  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/3]
+root          36  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/3:0H-events_highpri]
+root          37  0.0  0.0      0     0 ?        S    яну18   0:00 [kdevtmpfs]
+root          38  0.0  0.0      0     0 ?        I<   яну18   0:00 [inet_frag_wq]
+root          39  0.0  0.0      0     0 ?        S    яну18   0:00 [kauditd]
+root          40  0.0  0.0      0     0 ?        S    яну18   0:00 [khungtaskd]
+root          41  0.0  0.0      0     0 ?        S    яну18   0:00 [oom_reaper]
+root          42  0.0  0.0      0     0 ?        I<   яну18   0:00 [writeback]
+root          43  0.0  0.0      0     0 ?        S    яну18   0:07 [kcompactd0]
+root          44  0.0  0.0      0     0 ?        SN   яну18   0:00 [ksmd]
+root          45  0.0  0.0      0     0 ?        SN   яну18   0:00 [khugepaged]
+root          92  0.0  0.0      0     0 ?        I<   яну18   0:00 [kintegrityd]
+root          93  0.0  0.0      0     0 ?        I<   яну18   0:00 [kblockd]
+root          94  0.0  0.0      0     0 ?        I<   яну18   0:00 [blkcg_punt_bio]
+root          95  0.0  0.0      0     0 ?        I<   яну18   0:00 [tpm_dev_wq]
+root          96  0.0  0.0      0     0 ?        I<   яну18   0:00 [ata_sff]
+root          97  0.0  0.0      0     0 ?        I<   яну18   0:00 [md]
+root          98  0.0  0.0      0     0 ?        I<   яну18   0:00 [edac-poller]
+root          99  0.0  0.0      0     0 ?        I<   яну18   0:00 [devfreq_wq]
+root         100  0.0  0.0      0     0 ?        S    яну1USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 176768  8368 ?        Ss   яну18   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    яну18   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   яну18   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   яну18   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   яну18   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   яну18   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/0:0H-kblockd]
+root          10  0.0  0.0      0     0 ?        I<   яну18   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    яну18   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    яну18   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        R    яну18   0:19 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/0]
+root          18  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/0]
+root          19  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/1]
+root          20  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/1]
+root          21  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/1]
+root          22  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/1]
+root          24  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/1:0H-events_highpri]
+root          25  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/2]
+root          26  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/2]
+root          27  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/2]
+root          28  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/2]
+root          30  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/2:0H-events_highpri]
+root          31  0.0  0.0      0     0 ?        S    яну18   0:00 [cpuhp/3]
+root          32  0.0  0.0      0     0 ?        S    яну18   0:00 [idle_inject/3]
+root          33  0.0  0.0      0     0 ?        S    яну18   0:00 [migration/3]
+root          34  0.0  0.0      0     0 ?        S    яну18   0:00 [ksoftirqd/3]
+root          36  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/3:0H-events_highpri]
+root          37  0.0  0.0      0     0 ?        S    яну18   0:00 [kdevtmpfs]
+root          38  0.0  0.0      0     0 ?        I<   яну18   0:00 [inet_frag_wq]
+root          39  0.0  0.0      0     0 ?        S    яну18   0:00 [kauditd]
+root          40  0.0  0.0      0     0 ?        S    яну18   0:00 [khungtaskd]
+root          41  0.0  0.0      0     0 ?        S    яну18   0:00 [oom_reaper]
+root          42  0.0  0.0      0     0 ?        I<   яну18   0:00 [writeback]
+root          43  0.0  0.0      0     0 ?        S    яну18   0:07 [kcompactd0]
+root          44  0.0  0.0      0     0 ?        SN   яну18   0:00 [ksmd]
+root          45  0.0  0.0      0     0 ?        SN   яну18   0:00 [khugepaged]
+root          92  0.0  0.0      0     0 ?        I<   яну18   0:00 [kintegrityd]
+root          93  0.0  0.0      0     0 ?        I<   яну18   0:00 [kblockd]
+root          94  0.0  0.0      0     0 ?        I<   яну18   0:00 [blkcg_punt_bio]
+root          95  0.0  0.0      0     0 ?        I<   яну18   0:00 [tpm_dev_wq]
+root          96  0.0  0.0      0     0 ?        I<   яну18   0:00 [ata_sff]
+root          97  0.0  0.0      0     0 ?        I<   яну18   0:00 [md]
+root          98  0.0  0.0      0     0 ?        I<   яну18   0:00 [edac-poller]
+root          99  0.0  0.0      0     0 ?        I<   яну18   0:00 [devfreq_wq]
+root         100  0.0  0.0      0     0 ?        S    яну18   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/3:1H-events_highpri]
+root         106  0.0  0.0      0     0 ?        S    яну18   0:06 [kswapd0]
+root         107  0.0  0.0      0     0 ?        S    яну18   0:00 [ecryptfs-kthrea]
+root         109  0.0  0.0      0     0 ?        I<   яну18   0:00 [kthrotld]
+root         110  0.0  0.0      0     0 ?        I<   яну18   0:00 [acpi_thermal_pm]
+root         113  0.0  0.0      0     0 ?        I<   яну18   0:00 [vfio-irqfd-clea]
+root         117  0.0  0.0      0     0 ?        I<   яну18   0:00 [mld]
+root         118  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/2:1H-kblockd]
+root         119  0.0  0.0      0     0 ?        I<   яну18   0:00 [ipv6_addrconf]
+root         128  0.0  0.0      0     0 ?        I<   яну18   0:00 [kstrp]
+root         132  0.0  0.0      0     0 ?        I<   яну18   0:00 [zswap-shrink]
+root         133  0.0  0.0      0     0 ?        I<   яну18   0:08 [kworker/u9:0-i915_flip]
+root         138  0.0  0.0      0     0 ?        I<   яну18   0:00 [charger_manager]
+root         160  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/1:1H-events_highpri]
+root         189  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_0]
+root         190  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_0]
+root         192  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_1]
+root         193  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_1]
+root         194  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_2]
+root         195  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_2]
+root         196  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_3]
+root         197  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_3]
+root         201  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/0:1H-events_highpri]
+root         229  0.0  0.0      0     0 ?        S    яну18   0:00 [jbd2/sda3-8]
+root         230  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+root         270  0.0  1.0 121484 39088 ?        S<s  яну18   0:17 /lib/systemd/systemd-journald
+root         352  0.0  0.1  25668  4400 ?        Ss   яну18   0:02 /lib/systemd/systemd-udevd
+root         381  0.0  0.0      0     0 ?        I<   яну18   0:00 [asus_wireless_w]
+root         408  0.0  0.0      0     0 ?        I<   яну18   0:00 [led_workqueue]
+root         430  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc0]
+root         431  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc1]
+root         432  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc2]
+root         442  0.0  0.0      0     0 ?        I<   яну18   0:00 [cfg80211]
+root         445  0.0  0.0      0     0 ?        I<   яну18   0:00 [cryptd]
+root         740  0.0  0.0      0     0 ?        S    яну18   0:03 [jbd2/sda4-8]
+root         741  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+root         744  0.0  0.0      0     0 ?        S    яну18   0:00 [jbd2/sda2-8]
+root         745  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+systemd+     761  0.0  0.1  24548  7424 ?        Ss   яну18   0:03 /lib/systemd/systemd-resolved
+systemd+     762  0.0  0.0  90908  3860 ?        Ssl  яну18   0:00 /lib/systemd/systemd-timesyncd
+root         824  0.0  0.1 240944  6904 ?        Ssl  яну18   0:00 /usr/lib/accountsservice/accounts-daemon
+root         825  0.0  0.0   2548   712 ?        Ss   яну18   0:01 /usr/sbin/acpid
+avahi        828  0.0  0.1   9840  4140 ?        Ss   яну18   0:11 avahi-daemon: running [boyan-X550LD.local]
+root         829  0.0  0.0  11956  2984 ?        Ss   яну18   0:00 /usr/sbin/cron -f
+message+     831  0.0  0.1   9932  5488 ?        Ss   яну18   0:06 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         8328   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/3:1H-events_highpri]
+root         106  0.0  0.0      0     0 ?        S    яну18   0:06 [kswapd0]
+root         107  0.0  0.0      0     0 ?        S    яну18   0:00 [ecryptfs-kthrea]
+root         109  0.0  0.0      0     0 ?        I<   яну18   0:00 [kthrotld]
+root         110  0.0  0.0      0     0 ?        I<   яну18   0:00 [acpi_thermal_pm]
+root         113  0.0  0.0      0     0 ?        I<   яну18   0:00 [vfio-irqfd-clea]
+root         117  0.0  0.0      0     0 ?        I<   яну18   0:00 [mld]
+root         118  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/2:1H-kblockd]
+root         119  0.0  0.0      0     0 ?        I<   яну18   0:00 [ipv6_addrconf]
+root         128  0.0  0.0      0     0 ?        I<   яну18   0:00 [kstrp]
+root         132  0.0  0.0      0     0 ?        I<   яну18   0:00 [zswap-shrink]
+root         133  0.0  0.0      0     0 ?        I<   яну18   0:08 [kworker/u9:0-i915_flip]
+root         138  0.0  0.0      0     0 ?        I<   яну18   0:00 [charger_manager]
+root         160  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/1:1H-events_highpri]
+root         189  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_0]
+root         190  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_0]
+root         192  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_1]
+root         193  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_1]
+root         194  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_2]
+root         195  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_2]
+root         196  0.0  0.0      0     0 ?        S    яну18   0:00 [scsi_eh_3]
+root         197  0.0  0.0      0     0 ?        I<   яну18   0:00 [scsi_tmf_3]
+root         201  0.0  0.0      0     0 ?        I<   яну18   0:01 [kworker/0:1H-events_highpri]
+root         229  0.0  0.0      0     0 ?        S    яну18   0:00 [jbd2/sda3-8]
+root         230  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+root         270  0.0  1.0 121484 39088 ?        S<s  яну18   0:17 /lib/systemd/systemd-journald
+root         352  0.0  0.1  25668  4400 ?        Ss   яну18   0:02 /lib/systemd/systemd-udevd
+root         381  0.0  0.0      0     0 ?        I<   яну18   0:00 [asus_wireless_w]
+root         408  0.0  0.0      0     0 ?        I<   яну18   0:00 [led_workqueue]
+root         430  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc0]
+root         431  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc1]
+root         432  0.0  0.0      0     0 ?        S    яну18   0:00 [card0-crtc2]
+root         442  0.0  0.0      0     0 ?        I<   яну18   0:00 [cfg80211]
+root         445  0.0  0.0      0     0 ?        I<   яну18   0:00 [cryptd]
+root         740  0.0  0.0      0     0 ?        S    яну18   0:03 [jbd2/sda4-8]
+root         741  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+root         744  0.0  0.0      0     0 ?        S    яну18   0:00 [jbd2/sda2-8]
+root         745  0.0  0.0      0     0 ?        I<   яну18   0:00 [ext4-rsv-conver]
+systemd+     761  0.0  0.1  24548  7424 ?        Ss   яну18   0:03 /lib/systemd/systemd-resolved
+systemd+     762  0.0  0.0  90908  3860 ?        Ssl  яну18   0:00 /lib/systemd/systemd-timesyncd
+root         824  0.0  0.1 240944  6904 ?        Ssl  яну18   0:00 /usr/lib/accountsservice/accounts-daemon
+root         825  0.0  0.0   2548   712 ?        Ss   яну18   0:01 /usr/sbin/acpid
+avahi        828  0.0  0.1   9840  4140 ?        Ss   яну18   0:11 avahi-daemon: running [boyan-X550LD.local]
+root         829  0.0  0.0  11956  2984 ?        Ss   яну18   0:00 /usr/sbin/cron -f
+message+     831  0.0  0.1   9932  5488 ?        Ss   яну18   0:06 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         832  0.0  0.3 486276 13312 ?        Ssl  яну18   0:23 /usr/sbin/NetworkManager --no-daemon
+root         838  0.0  0.0  81896  3656 ?        Ssl  яну18   0:02 /usr/sbin/irqbalance --foreground
+root         839  0.0  0.2  42260 10448 ?        Ss   яну18   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         841  0.0  0.2 243668 10608 ?        Ssl  яну18   0:02 /usr/lib/policykit-1/polkitd --no-debug
+syslog       843  0.0  0.0 224352  3892 ?        Ssl  яну18   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         845  0.0  0.5 1170756 20004 ?       Ssl  яну18   0:08 /usr/lib/snapd/snapd
+root         846  0.0  0.1 238144  5364 ?        Ssl  яну18   0:00 /usr/libexec/switcheroo-control
+root         847  0.0  0.1  17388  5348 ?        Ss   яну18   0:00 /lib/systemd/systemd-logind
+root         848  0.0  0.1 128804  6648 ?        Ssl  яну18   0:02 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         852  0.0  0.2 394080  9712 ?        Ssl  яну18   0:03 /usr/lib/udisks2/udisksd
+root         853  0.0  0.1  14068  4956 ?        Ss   яну18   0:03 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        857  0.0  0.0   8348    48 ?        S    яну18   0:00 avahi-daemon: chroot helper
+root         928  0.0  0.1 241500  7348 ?        Ssl  яну18   0:00 /usr/sbin/ModemManager
+root         936  0.0  0.2 120680 11040 ?        Ssl  яну18   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1028  0.0  0.1 242144  7192 ?        Ssl  яну18   0:00 /usr/sbin/gdm3
+whoopsie    1094  0.0  0.2 326852 10396 ?        Ssl  яну18   0:00 /usr/bin/whoopsie -f
+kernoops    1095  0.0  0.0  11264   140 ?        Ss   яну18   0:01 /usr/sbin/kerneloops --test
+kernoops    1097  0.0  0.0  11264   404 ?        Ss   яну18   0:01 /usr/sbin/kerneloops
+rtkit       1108  0.0  0.0 152936  2884 ?        SNsl яну18   0:00 /usr/libexec/rtkit-daemon
+colord      1191  0.0  0.2 248872 10672 ?        Ssl  яну18   0:00 /usr/libexec/colord
+root        1214  0.0  0.2 254852  8316 ?        Ssl  яну18   0:01 /usr/lib/upower/upowerd
+root        1418  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/u9:1]
+root        1463  0.0  0.2 317196  8844 ?        Sl   яну18   0:00 gdm-session-worker [pam/gdm-password]
+boyan       1472  0.0  0.4  34864 17592 ?        Ss   яну18   0:03 /lib/systemd/systemd --user
+boyan       1473  0.0  0.0 169972   868 ?        S    яну18   0:00 (sd-pam)
+boyan       1478  0.0  0.3 3059056 13836 ?       S<sl яну18   0:17 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+boyan       1480  0.0  0.4 590852 15924 ?        SNsl яну18   1:26 /usr/libexec/tracker-miner-fs
+boyan       1484  0.0  0.1  11160  5716 ?        Ss   яну18   0:10 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+boyan       1499  0.0  0.1 242348  6716 ?        Ssl  яну18   0:00 /usr/libexec/gvfsd
+boyan       1504  0.0  0.1 378348  5272 ?        Sl   яну18   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+boyan       1511  0.0  0.2 316604  8204 ?        Ssl  яну18   0:02 /usr/libexec/gvfs-udisks2-volume-monitor
+boyan       1517  0.0  0.1 319260  7456 ?        Ssl  яну18   0:01 /usr/libexec/gvfs-afc-volume-monitor
+boyan       1522  0.0  0.1 238240  5920 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+boyan       1526  0.0  0.1 240648  6236 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+boyan       1530  0.0  0.1 238412  5676 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-goa-volume-monitor
+boyan       1534  0.0  0.2 555916  8780 ?        Sl   яну18   0:00 /usr/libexec/goa-daemon
+boyan       1542  0.0  0.1 317292  6240 ?        Sl   яну18   0:00 /usr/libexec/goa-identity-service
+boyan       1550  0.0  0.1 242692  5136 ?        Sl   яну18   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+boyan       1558  0.0  0.1 166552  6064 tty2     Ssl+ яну18   0:00   0.0  0.3 486276 13312 ?        Ssl  яну18   0:23 /usr/sbin/NetworkManager --no-daemon
+root         838  0.0  0.0  81896  3656 ?        Ssl  яну18   0:02 /usr/sbin/irqbalance --foreground
+root         839  0.0  0.2  42260 10448 ?        Ss   яну18   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         841  0.0  0.2 243668 10608 ?        Ssl  яну18   0:02 /usr/lib/policykit-1/polkitd --no-debug
+syslog       843  0.0  0.0 224352  3892 ?        Ssl  яну18   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         845  0.0  0.5 1170756 20004 ?       Ssl  яну18   0:08 /usr/lib/snapd/snapd
+root         846  0.0  0.1 238144  5364 ?        Ssl  яну18   0:00 /usr/libexec/switcheroo-control
+root         847  0.0  0.1  17388  5348 ?        Ss   яну18   0:00 /lib/systemd/systemd-logind
+root         848  0.0  0.1 128804  6648 ?        Ssl  яну18   0:02 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         852  0.0  0.2 394080  9712 ?        Ssl  яну18   0:03 /usr/lib/udisks2/udisksd
+root         853  0.0  0.1  14068  4956 ?        Ss   яну18   0:03 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        857  0.0  0.0   8348    48 ?        S    яну18   0:00 avahi-daemon: chroot helper
+root         928  0.0  0.1 241500  7348 ?        Ssl  яну18   0:00 /usr/sbin/ModemManager
+root         936  0.0  0.2 120680 11040 ?        Ssl  яну18   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1028  0.0  0.1 242144  7192 ?        Ssl  яну18   0:00 /usr/sbin/gdm3
+whoopsie    1094  0.0  0.2 326852 10396 ?        Ssl  яну18   0:00 /usr/bin/whoopsie -f
+kernoops    1095  0.0  0.0  11264   140 ?        Ss   яну18   0:01 /usr/sbin/kerneloops --test
+kernoops    1097  0.0  0.0  11264   404 ?        Ss   яну18   0:01 /usr/sbin/kerneloops
+rtkit       1108  0.0  0.0 152936  2884 ?        SNsl яну18   0:00 /usr/libexec/rtkit-daemon
+colord      1191  0.0  0.2 248872 10672 ?        Ssl  яну18   0:00 /usr/libexec/colord
+root        1214  0.0  0.2 254852  8316 ?        Ssl  яну18   0:01 /usr/lib/upower/upowerd
+root        1418  0.0  0.0      0     0 ?        I<   яну18   0:00 [kworker/u9:1]
+root        1463  0.0  0.2 317196  8844 ?        Sl   яну18   0:00 gdm-session-worker [pam/gdm-password]
+boyan       1472  0.0  0.4  34864 17592 ?        Ss   яну18   0:03 /lib/systemd/systemd --user
+boyan       1473  0.0  0.0 169972   868 ?        S    яну18   0:00 (sd-pam)
+boyan       1478  0.0  0.3 3059056 13836 ?       S<sl яну18   0:17 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+boyan       1480  0.0  0.4 590852 15924 ?        SNsl яну18   1:26 /usr/libexec/tracker-miner-fs
+boyan       1484  0.0  0.1  11160  5716 ?        Ss   яну18   0:10 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+boyan       1499  0.0  0.1 242348  6716 ?        Ssl  яну18   0:00 /usr/libexec/gvfsd
+boyan       1504  0.0  0.1 378348  5272 ?        Sl   яну18   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+boyan       1511  0.0  0.2 316604  8204 ?        Ssl  яну18   0:02 /usr/libexec/gvfs-udisks2-volume-monitor
+boyan       1517  0.0  0.1 319260  7456 ?        Ssl  яну18   0:01 /usr/libexec/gvfs-afc-volume-monitor
+boyan       1522  0.0  0.1 238240  5920 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+boyan       1526  0.0  0.1 240648  6236 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+boyan       1530  0.0  0.1 238412  5676 ?        Ssl  яну18   0:00 /usr/libexec/gvfs-goa-volume-monitor
+boyan       1534  0.0  0.2 555916  8780 ?        Sl   яну18   0:00 /usr/libexec/goa-daemon
+boyan       1542  0.0  0.1 317292  6240 ?        Sl   яну18   0:00 /usr/libexec/goa-identity-service
+boyan       1550  0.0  0.1 242692  5136 ?        Sl   яну18   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+boyan       1558  0.0  0.1 166552  6064 tty2     Ssl+ яну18   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+boyan       1560  0.1  0.9 558576 36872 tty2     Sl+  яну18   4:22 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+boyan       1581  0.0  0.1 190752  7212 tty2     Sl+  яну18   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+boyan       1649  0.0  0.0   6040    36 ?        Ss   яну18   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+boyan       1667  0.0  0.1 305424  5768 ?        Ssl  яну18   0:00 /usr/libexec/at-spi-bus-launcher
+boyan       1672  0.0  0.0   7380  3204 ?        S    яну18   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+boyan       1679  0.0  0.0  92596  3752 ?        Ssl  яну18   0:00 /usr/libexec/gnome-session-ctl --monitor
+boyan       1686  0.0  0.2 413012  8876 ?        Ssl  яну18   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+boyan       1702  0.2  4.5 4269260 175600 ?      Ssl  яну18   6:16 /usr/bin/gnome-shell
+boyan       1723  0.0  0.1 313460  6704 ?        Sl   яну18   0:00 ibus-daemon --panel disable --xim
+boyan       1727  0.0  0.1 239068  5748 ?        Sl   яну18   0:00 /usr/libexec/ibus-dconf
+boyan       1728  0.0  0.2 275188  8808 ?        Sl   яну18   0:01 /usr/libexec/ibus-extension-gtk3
+boyan       1732  0.0  0.2 195924  8224 ?        Sl   яну18   0:00 /usr/libexec/ibus-x11 --kill-daemon
+boyan       1735  0.0  0.1 239568  6884 ?        Sl   яну18   0:01 /usr/libexec/ibus-portal
+boyan       1744  0.0  0.1 162876  5828 ?        Sl   яну18   0:02 /usr/libexec/at-spi2-registryd --use-gnome-session
+boyan       1748  0.0  0.1 238132  4216 ?        Ssl  яну18   0:00 /usr/libexec/xdg-permission-store
+boyan       1753  0.0  0.2 581112  9600 ?        Sl   яну18   0:00 /usr/libexec/gnome-shell-calendar-server
+boyan       1758  0.0  0.1 156368  5380 ?        Sl   яну18   0:00 /usr/libexec/dconf-service
+boyan       1770  0.0  0.2 810656  9908 ?        Ssl  яну18   0:00 /usr/libexec/evolution-source-registry
+boyan       1776  0.0  0.7 1204132 31048 ?       Sl   яну18   0:07 /usr/bin/nautilus --gapplication-service
+boyan       1778  0.0  0.1 2662504 7576 ?        Sl   яну18   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+boyan       1788  0.0  0.1 312200  6028 ?        Ssl  яну18   0:00 /usr/libexec/gsd-a11y-settings
+boyan       1789  0.0  0.2 502688 11264 ?        Ssl  яну18   0:00 /usr/libexec/gsd-color
+boyan       1791  0.0  0.2 376152  8056 ?        Ssl  яну18   0:00 /usr/libexec/gsd-datetime
+boyan       1792  0.0  0.1 314404  6588 ?        Ssl  яну18   0:02 /usr/libexec/gsd-housekeeping
+boyan       1794  0.0  0.2 343968  9352 ?        Ssl  яну18   0:00 /usr/libexec/gsd-keyboard
+boyan       1795  0.0  0.3 1162160 14512 ?       Ssl  яну18   0:00 /usr/libexec/gsd-media-keys
+boyan       1796  0.0  0.3 758640 11748 ?        Ssl  яну18   0:00 /usr/libexec/gsd-power
+boyan       1799  0.0  0.2 250780  8652 ?        Ssl  яну18   0:00 /usr/libexec/gsd-print-notifications
+boyan       1803  0.0  0.1 385904  5892 ?        Ssl  яну18   0:00 /usr/libexec/gsd-rfkill
+boyan       1806  0.0  0.1 238044  5304 ?        Ssl  яну18   0:00 /usr/libexec/gsd-screensaver-proxy
+boyan       1810  0.0  0.2 467312  8224 ?        Ssl  яну18   0:02 /usr/libexec/gsd-sharing
+boyan       1816  0.0  0.1 391572  7220 ?        Ssl  яну18   0:00 /usr/libexec/gsd-smartcard
+boyan       1817  0.0  0.1 321896  7760 ?        Ssl  яну18   0:00 /usr/libexec/gsd-sound
+boyan       1824  0.0  0.1 461236  6584 ?        Ssl  яну18   0:00 /usr/libexec/gsd-usb-protection
+boyan       1826  0.0  0.2 343436  8540 ?        Ssl  яну18   0:00 /usr/libexec/gsd-wacom
+boyan       1827  0.0  0.3 720264 13240 ?        Sl   яну18   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+boyan       1835  0.0  0.1 231804  4928 ?        Sl   яну18   0:00 /usr/libexec/gsd-disk-utility-notify
+boyan       1840  0.0  0.1 316636  6740 ?        Ssl  яну18   0:00 /usr/libexec/gsd-wwan
+boyan       1842  0.0  0.2 344612  9512 ?        Ssl  яну18   0:00 /usr/libexec/gsd-xsettings
+boyan       1882  0.0  0.2 344720  8336 ?        Sl   яну18   0:00 /usr/libexec/gsd-printer
+boyan       1905  0.0  0.1 165232  6572 ?        Sl   яну18   0:00 /usr/libexec/ibus-engine-simple
+boyan       1931  0.0  0.2 1381900 11572 ?       Ssl  яну18   0:00 /usr/libexec/evolution-calendar-factory
+boyan       1934  0.0  0.1 316640  6792 ?        Sl   яну18   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+boyan       1976  0.0  0.2 823188 11452 ?        Ssl  яну18   0:00 /usr/libexec/evolution-addressbook-factory
+boyan       1981  0.0  4.3 1327228 171068 ?      Sl   яну18   0:17 /snap/snap-store/638/usr/bin/snap-store --gapplication-service
+boyan       2002  0.0  0.1 533792  5584 ?        Ssl  яну18   0:02 /usr/libexec/xdg-document-portal
+boyan       2099  0.0  0.2 613112  9336 ?        Ssl  яну18   0:03 /usr/libexec/xdg-desktop-portal
+boyan       2103  0.0  0.2 492540 10584 ?        Ssl  яну18   0:01 /usr/libexec/xdg-desktop-portal-gtk
+boyan       2793  0.0  0.1 164920  5960 ?        Ssl  яну18   0:00 /usr/libexec/gvfsd-metadata
+boyan       2796  0.0  0.3 420312 15588 ?        Sl   яну18   0:01 update-notifier
+boyan       5462  0.0  0.5 819352 22020 ?        Ssl  яну19   0:02 /usr/libexec/gnome-terminal-server
+boyan       5469  0.0  0.0  13420  2192 pts/0    Ss+  яну19   0:00 bash
+boyan       5726  0.2  1.8 38572116 70448 ?      SLsl яну19   2:30 /snap/code/117/usr/share/code/code --no-sandbox --enable-crashpad .
+boyan       5728  0.0  0.1 33972668 5920 ?       S    яну19   0:00 /snap/code/117/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox --enable-crashpad --enable-crashpad
+boyan       5729  0.0  0.1 33972660 4684 ?       S    яну19   0:00 /snap/code/117/usr/share/code/code --type=zygote --no-sandbox --enable-crashpad --enable-crashpad
+boyan       5742  0.0  0.0 33585756   8 ?        Sl   яну19   0:00 /snap/code/117/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/boyan/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=be91c30c-d180-4fdd-ad21-650428c7f9dc&iid=be91c30c-d180-4fdd-ad21-650428c7f9dc&sid=be91c30c-d180-4fdd-ad21-650428c7f9dc --annotation=IsOfficialBuild=1 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.74.3 --annotation=exe=/snap/code/117/usr/share/code/code --no-sandbox --enable-crashpad . --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=19.1.8 --initial-client-fd=44 --shared-client-connection
+boyan       5762  0.0  0.4 34026200 16192 ?      Sl   яну19   0:01 /snap/code/117/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --enable-crashpad
+boyan       5771  1.7  7.0 61565256 273504 ?     Rl   яну19  19:17 /snap/code/117/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/117/usr/share/code/resources/app --no-sandbox --no-zygote --enable-blink-features=HighlightAPI --no-sandbox --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=4578015376 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:91ac325a-0eae-43dd-b2cf-ebf8f6bb15ce --enable-crashpad
+boyan       5791  0.6  1.7 34147752 66624 ?      Sl   яну19   7:30 /snap/code/117/usr/share/code/code --type=gpu-process --no-sandbox --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+boyan       5805  0.0  1.6 46839436 62500 ?      Sl   яну19   0:37 /snap/code/117/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/117/usr/share/code/resources/app --no-sandbox --no-zygote --node-integration-in-worker --no-sandbox --disable-gpu-compositing --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=4579308972 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:5b9463c4-4402-4086-b27e-3704537e21ed --vscode-window-kind=shared-process --enable-crashpad
+boyan       5819  0.1  2.4 38379600 95184 ?      Sl   яну19   1:50 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node --inspect-port=0 /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock
+boyan       5827  0.0  0.7 38379592 28280 ?      Sl   яну19   0:35 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=ptyHost --logsPath /home/boyan/.config/Code/logs/20230119T163945
+boyan       5850  0.0  0.4 38383448 18844 ?      Sl   яну19   0:03 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=fileWatcher
+boyan       5874  0.0  0.1  13544  4360 pts/1    Ss   яну19   0:00 /usr/bin/bash --init-file /snap/code/117/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+boyan       5920  0.1  0.8 1591000 32144 ?       Sl   яну19   1:56 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools
+boyan       6587  0.5  6.4 34490632 250372 ?     SLl  яну19   6:13 /opt/google/chrome/chrome
+boyan       6593  0.0  0.0  10760   408 ?        S    яну19   0:00 cat
+boyan       6594  0.0  0.0  10760   364 ?        S    яну19   0:00 cat
+boyan       6596  0.0  0.0 33577168 2012 ?       Sl   яну19   0:00 /opt/google//usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+boyan       1560  0.1  0.9 558576 36872 tty2     Sl+  яну18   4:22 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+boyan       1581  0.0  0.1 190752  7212 tty2     Sl+  яну18   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+boyan       1649  0.0  0.0   6040    36 ?        Ss   яну18   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+boyan       1667  0.0  0.1 305424  5768 ?        Ssl  яну18   0:00 /usr/libexec/at-spi-bus-launcher
+boyan       1672  0.0  0.0   7380  3204 ?        S    яну18   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+boyan       1679  0.0  0.0  92596  3752 ?        Ssl  яну18   0:00 /usr/libexec/gnome-session-ctl --monitor
+boyan       1686  0.0  0.2 413012  8876 ?        Ssl  яну18   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+boyan       1702  0.2  4.5 4269260 175600 ?      Ssl  яну18   6:16 /usr/bin/gnome-shell
+boyan       1723  0.0  0.1 313460  6704 ?        Sl   яну18   0:00 ibus-daemon --panel disable --xim
+boyan       1727  0.0  0.1 239068  5748 ?        Sl   яну18   0:00 /usr/libexec/ibus-dconf
+boyan       1728  0.0  0.2 275188  8808 ?        Sl   яну18   0:01 /usr/libexec/ibus-extension-gtk3
+boyan       1732  0.0  0.2 195924  8224 ?        Sl   яну18   0:00 /usr/libexec/ibus-x11 --kill-daemon
+boyan       1735  0.0  0.1 239568  6884 ?        Sl   яну18   0:01 /usr/libexec/ibus-portal
+boyan       1744  0.0  0.1 162876  5828 ?        Sl   яну18   0:02 /usr/libexec/at-spi2-registryd --use-gnome-session
+boyan       1748  0.0  0.1 238132  4216 ?        Ssl  яну18   0:00 /usr/libexec/xdg-permission-store
+boyan       1753  0.0  0.2 581112  9600 ?        Sl   яну18   0:00 /usr/libexec/gnome-shell-calendar-server
+boyan       1758  0.0  0.1 156368  5380 ?        Sl   яну18   0:00 /usr/libexec/dconf-service
+boyan       1770  0.0  0.2 810656  9908 ?        Ssl  яну18   0:00 /usr/libexec/evolution-source-registry
+boyan       1776  0.0  0.7 1204132 31048 ?       Sl   яну18   0:07 /usr/bin/nautilus --gapplication-service
+boyan       1778  0.0  0.1 2662504 7576 ?        Sl   яну18   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+boyan       1788  0.0  0.1 312200  6028 ?        Ssl  яну18   0:00 /usr/libexec/gsd-a11y-settings
+boyan       1789  0.0  0.2 502688 11264 ?        Ssl  яну18   0:00 /usr/libexec/gsd-color
+boyan       1791  0.0  0.2 376152  8056 ?        Ssl  яну18   0:00 /usr/libexec/gsd-datetime
+boyan       1792  0.0  0.1 314404  6588 ?        Ssl  яну18   0:02 /usr/libexec/gsd-housekeeping
+boyan       1794  0.0  0.2 343968  9352 ?        Ssl  яну18   0:00 /usr/libexec/gsd-keyboard
+boyan       1795  0.0  0.3 1162160 14512 ?       Ssl  яну18   0:00 /usr/libexec/gsd-media-keys
+boyan       1796  0.0  0.3 758640 11748 ?        Ssl  яну18   0:00 /usr/libexec/gsd-power
+boyan       1799  0.0  0.2 250780  8652 ?        Ssl  яну18   0:00 /usr/libexec/gsd-print-notifications
+boyan       1803  0.0  0.1 385904  5892 ?        Ssl  яну18   0:00 /usr/libexec/gsd-rfkill
+boyan       1806  0.0  0.1 238044  5304 ?        Ssl  яну18   0:00 /usr/libexec/gsd-screensaver-proxy
+boyan       1810  0.0  0.2 467312  8224 ?        Ssl  яну18   0:02 /usr/libexec/gsd-sharing
+boyan       1816  0.0  0.1 391572  7220 ?        Ssl  яну18   0:00 /usr/libexec/gsd-smartcard
+boyan       1817  0.0  0.1 321896  7760 ?        Ssl  яну18   0:00 /usr/libexec/gsd-sound
+boyan       1824  0.0  0.1 461236  6584 ?        Ssl  яну18   0:00 /usr/libexec/gsd-usb-protection
+boyan       1826  0.0  0.2 343436  8540 ?        Ssl  яну18   0:00 /usr/libexec/gsd-wacom
+boyan       1827  0.0  0.3 720264 13240 ?        Sl   яну18   0:00chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/boyan/.config/google-chrome/Crash Reports --metrics-dir=/home/boyan/.config/google-chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=108.0.5359.124 --initial-client-fd=5 --shared-client-connection
+boyan       6598  0.0  0.0 33567932 1788 ?       Sl   яну19   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/boyan/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=108.0.5359.124 --initial-client-fd=4 --shared-client-connection
+boyan       6604  0.0  0.5 33854252 23176 ?      S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6605  0.0  0.7 33854240 27744 ?      S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6606  0.0  0.0 33568084 2772 ?       S    яну19   0:00 /opt/google/chrome/nacl_helper
+boyan       6609  0.0  0.2 33854268 8532 ?       S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6631  0.3  2.9 34372692 115156 ?     Sl   яну19   3:24 /opt/google/chrome/chrome --type=gpu-process --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6633  0.1  1.9 33922596 75160 ?      Sl   яну19   1:32 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6643  0.0  1.0 33903844 39220 ?      Sl   яну19   0:03 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6738  0.0  4.4 1184793448 174848 ?   Sl   яну19   0:34 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4799875640 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6763  0.0  2.6 1184791392 104396 ?   Sl   яну19   0:07 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4801851699 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6909  0.3  8.4 1184816088 330092 ?   Sl   яну19   3:24 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4826299238 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7001  0.0  1.0 34171836 41316 ?      Sl   яну19   0:06 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7010  0.0  2.8 1184786404 109980 ?   Sl   яну19   0:30 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4861944191 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7196  0.0  0.0  90428  3448 ?        Sl   яну19   0:00 /usr/lib/libreoffice/program/oosplash --writer file:///home/boyan/Documents/FMI/SP/Zad_11.docx
+boyan       7213  0.0  1.1 1234992 45220 ?       Sl   яну19   0:05 /usr/lib/libreoffice/program/soffice.bin --writer file:///home/boyan/Documents/FMI/SP/Zad_11.docx
+boyan      15052  0.0  0.1 390376  6840 ?        Sl   яну19   0:00 /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+boyan      15069  0.0  0.1 317520  6828 ?        Sl   яну19   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+boyan      15413  0.0  0.2 4951572 9864 ?        Sl   яну19   0:05 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv 5920 {91AD925E-750E-4D46-A40C-86B7235BD33C}
+boyan      16830  0.0  0.0  13284  2400 pts/2    Ss   яну19   0:00 bash
+root       17962  0.0  0.3 393484 15476 ?        Ssl  яну19   0:01 /usr/libexec/fwupd/fwupd
+boyan      18443  0.0  0.0  12328  2400 pts/2    S+   яну19   0:00 man read
+boyan      18453  0.0  0.0  10976  1772 pts/2    S+   яну19   0:00 pager
+boyan      24038  0.3  6.2 1185895456 244516 ?   Sl   яну19   2:50 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=240 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=22082199740 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      24050  0.1  3.5 1184803868 137056 ?   Sl   яну19   1:04 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=241 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=22087795314 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       26058  0.0  0.0      0     0 ?        I    яну19   0:02 [kworker/2:1-events]
+boyan      26365  0.0  0.4 4951572 19472 ?       Sl   яну19   0:03 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv /usr/libexec/evolution-data-server/evolution-alarm-notify
+boyan       1835  0.0  0.1 231804  4928 ?        Sl   яну18   0:00 /usr/libexec/gsd-disk-utility-notify
+boyan       1840  0.0  0.1 316636  6740 ?        Ssl  яну18   0:00 /usr/libexec/gsd-wwan
+boyan       1842  0.0  0.2 344612  9512 ?        Ssl  яну18   0:00 /usr/libexec/gsd-xsettings
+boyan       1882  0.0  0.2 344720  8336 ?        Sl   яну18   0:00 /usr/libexec/gsd-printer
+boyan       1905  0.0  0.1 165232  6572 ?        Sl   яну18   0:00 /usr/libexec/ibus-engine-simple
+boyan       1931  0.0  0.2 1381900 11572 ?       Ssl  яну18   0:00 /usr/libexec/evolution-calendar-factory
+boyan       1934  0.0  0.1 316640  6792 ?        Sl   яну18   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+boyan       1976  0.0  0.2 823188 11452 ?        Ssl  яну18   0:00 /usr/libexec/evolution-addressbook-factory
+boyan       1981  0.0  4.3 1327228 171068 ?      Sl   яну18   0:17 /snap/snap-store/638/usr/bin/snap-store --gapplication-service
+boyan       2002  0.0  0.1 533792  5584 ?        Ssl  яну18   0:02 /usr/libexec/xdg-document-portal
+boyan       2099  0.0  0.2 613112  9336 ?        Ssl  яну18   0:03 /usr/libexec/xdg-desktop-portal
+boyan       2103  0.0  0.2 492540 10584 ?        Ssl  яну18   0:01 /usr/libexec/xdg-desktop-portal-gtk
+boyan       2793  0.0  0.1 164920  5960 ?        Ssl  яну18   0:00 /usr/libexec/gvfsd-metadata
+boyan       2796  0.0  0.3 420312 15588 ?        Sl   яну18   0:01 update-notifier
+boyan       5462  0.0  0.5 819352 22020 ?        Ssl  яну19   0:02 /usr/libexec/gnome-terminal-server
+boyan       5469  0.0  0.0  13420  2192 pts/0    Ss+  яну19   0:00 bash
+boyan       5726  0.2  1.8 38572116 70448 ?      SLsl яну19   2:30 /snap/code/117/usr/share/code/code --no-sandbox --enable-crashpad .
+boyan       5728  0.0  0.1 33972668 5920 ?       S    яну19   0:00 /snap/code/117/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox --enable-crashpad --enable-crashpad
+boyan       5729  0.0  0.1 33972660 4684 ?       S    яну19   0:00 /snap/code/117/usr/share/code/code --type=zygote --no-sandbox --enable-crashpad --enable-crashpad
+boyan       5742  0.0  0.0 33585756   8 ?        Sl   яну19   0:00 /snap/code/117/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/boyan/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=be91c30c-d180-4fdd-ad21-650428c7f9dc&iid=be91c30c-d180-4fdd-ad21-650428c7f9dc&sid=be91c30c-d180-4fdd-ad21-650428c7f9dc --annotation=IsOfficialBuild=1 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.74.3 --annotation=exe=/snap/code/117/usr/share/code/code --no-sandbox --enable-crashpad . --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=19.1.8 --initial-client-fd=44 --shared-client-connection
+boyan       5762  0.0  0.4 34026200 16192 ?      Sl   яну19   0:01 /snap/code/117/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --enable-crashpad
+boyan       5771  1.7  7.0 61565256 274824 ?     Rl   яну19  19:17 /snap/code/117/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no 5920 {2409D43B-880A-47A4-B675-71430269D0C7}
+boyan      27036  0.0  2.8 1184784356 109620 ?   Sl   яну19   0:04 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=391 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=24437823901 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       27122  0.0  0.0      0     0 ?        I    яну19   0:09 [kworker/0:1-events]
+root       27183  0.1  0.0      0     0 ?        I    09:37   0:05 [kworker/3:3-events]
+root       27194  0.0  0.0      0     0 ?        I    09:37   0:03 [kworker/u8:28-phy0]
+root       27206  0.0  0.0      0     0 ?        S    09:37   0:00 [irq/48-mei_me]
+root       27340  0.0  0.2  30972  8396 ?        Ss   09:37   0:00 /usr/sbin/cupsd -l
+root       27341  0.0  0.2 176356 11012 ?        Ssl  09:37   0:00 /usr/sbin/cups-browsed
+root       28375  0.1  0.0      0     0 ?        I    09:42   0:06 [kworker/2:2-events]
+root       28555  0.1  0.0      0     0 ?        I    09:49   0:04 [kworker/1:1-events]
+root       28556  0.0  0.0      0     0 ?        I    09:49   0:00 [kworker/0:0-events]
+boyan      31684  0.9  4.4 1184797948 174796 ?   Sl   10:21   0:15 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=431 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=27276742325 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      31959  0.1  0.5 4951572 20168 ?       Sl   10:27   0:02 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv 5920 {868F4B34-B435-405E-84B5-CD3206BF023C}
+root       32552  0.1  0.0      0     0 ?        I    10:32   0:01 [kworker/1:0-events]
+root       32952  0.0  0.0      0     0 ?        I    10:37   0:00 [kworker/u8:0-phy0]
+root       33510  0.0  0.0      0     0 ?        I    10:42   0:00 [kworker/u8:1-ext4-rsv-conversion]
+boyan      33572  2.8  4.4 1185870232 174608 ?   Sl   10:42   0:14 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=446 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28530520430 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      33607  0.1  3.1 1184775536 121728 ?   Sl   10:43   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=449 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28537291231 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      33623  0.2  3.3 1184811124 131192 ?   Sl   10:43   0:01 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=450 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28538213284 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       33655  0.1  0.0      0     0 ?        I    10:43   0:00 [kworker/3:0-events]
+boyan      33719  0.0  1.4 1184750408 57556 ?    Sl   10:46   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=453 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28762832202 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       33833  0.1  0.0      0     0 ?        I    10:48   0:00 [kworker/u8:2-events_unbound]
+boyan      33910  0.5  0.8 437404 33772 ?        Ssl  10:50   0:00 /usr/libexec/tracker-store
+boyan      34045  0.0  0.0   2364   508 pts/1    S+   10:51   0:00 ./tras2 x1 x2
+boyan      34046  0.0  0.0  14028  3296 pts/1    R+   10:51   0:00 ps aux
+boyan      34047  0.0  0.0  14028  3288 pts/1    R+   10:51   0:00 ps aux
+_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/117/usr/share/code/resources/app --no-sandbox --no-zygote --enable-blink-features=HighlightAPI --no-sandbox --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=4578015376 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:91ac325a-0eae-43dd-b2cf-ebf8f6bb15ce --enable-crashpad
+boyan       5791  0.6  1.7 34147752 66624 ?      Sl   яну19   7:30 /snap/code/117/usr/share/code/code --type=gpu-process --no-sandbox --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+boyan       5805  0.0  1.6 46839436 62500 ?      Sl   яну19   0:37 /snap/code/117/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=5742 --enable-crash-reporter=2dc2d311-6af5-4f0c-ad6c-4ac6920efb44,no_channel --user-data-dir=/home/boyan/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/117/usr/share/code/resources/app --no-sandbox --no-zygote --node-integration-in-worker --no-sandbox --disable-gpu-compositing --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=4579308972 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,13288989098665272938,7184115036744863369,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:5b9463c4-4402-4086-b27e-3704537e21ed --vscode-window-kind=shared-process --enable-crashpad
+boyan       5819  0.1  2.4 38379600 95184 ?      Sl   яну19   1:50 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node --inspect-port=0 /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock
+boyan       5827  0.0  0.7 38379592 28280 ?      Sl   яну19   0:35 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=ptyHost --logsPath /home/boyan/.config/Code/logs/20230119T163945
+boyan       5850  0.0  0.4 38383448 18844 ?      Sl   яну19   0:03 /snap/code/117/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/117/usr/share/code/resources/app/out/bootstrap-fork --type=fileWatcher
+boyan       5874  0.0  0.1  13544  4360 pts/1    Ss   яну19   0:00 /usr/bin/bash --init-file /snap/code/117/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+boyan       5920  0.1  0.8 1591000 32144 ?       Sl   яну19   1:56 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools
+boyan       6587  0.5  6.4 34490632 250372 ?     SLl  яну19   6:13 /opt/google/chrome/chrome
+boyan       6593  0.0  0.0  10760   408 ?        S    яну19   0:00 cat
+boyan       6594  0.0  0.0  10760   364 ?        S    яну19   0:00 cat
+boyan       6596  0.0  0.0 33577168 2012 ?       Sl   яну19   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/boyan/.config/google-chrome/Crash Reports --metrics-dir=/home/boyan/.config/google-chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=108.0.5359.124 --initial-client-fd=5 --shared-client-connection
+boyan       6598  0.0  0.0 33567932 1788 ?       Sl   яну19   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/boyan/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.5 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=108.0.5359.124 --initial-client-fd=4 --shared-client-connection
+boyan       6604  0.0  0.5 33854252 23176 ?      S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6605  0.0  0.7 33854240 27744 ?      S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6606  0.0  0.0 33568084 2772 ?       S    яну19   0:00 /opt/google/chrome/nacl_helper
+boyan       6609  0.0  0.2 33854268 8532 ?       S    яну19   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable
+boyan       6631  0.3  2.9 34372692 115156 ?     Sl   яну19   3:24 /opt/google/chrome/chrome --type=gpu-process --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6633  0.1  1.9 33922596 75160 ?      Sl   яну19   1:32 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6643  0.0  1.0 33903844 39220 ?      Sl   яну19   0:03 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6738  0.0  4.4 1184793448 174848 ?   Sl   яну19   0:34 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4799875640 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6763  0.0  2.6 1184791392 104396 ?   Sl   яну19   0:07 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4801851699 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       6909  0.3  8.4 1184816088 330092 ?   Sl   яну19   3:24 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4826299238 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7001  0.0  1.0 34171836 41316 ?      Sl   яну19   0:06 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7010  0.0  2.8 1184786404 109980 ?   Sl   яну19   0:30 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=4861944191 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan       7196  0.0  0.0  90428  3448 ?        Sl   яну19   0:00 /usr/lib/libreoffice/program/oosplash --writer file:///home/boyan/Documents/FMI/SP/Zad_11.docx
+boyan       7213  0.0  1.1 1234992 45220 ?       Sl   яну19   0:05 /usr/lib/libreoffice/program/soffice.bin --writer file:///home/boyan/Documents/FMI/SP/Zad_11.docx
+boyan      15052  0.0  0.1 390376  6840 ?        Sl   яну19   0:00 /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+boyan      15069  0.0  0.1 317520  6828 ?        Sl   яну19   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+boyan      15413  0.0  0.2 4951572 9864 ?        Sl   яну19   0:05 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv 5920 {91AD925E-750E-4D46-A40C-86B7235BD33C}
+boyan      16830  0.0  0.0  13284  2400 pts/2    Ss   яну19   0:00 bash
+root       17962  0.0  0.3 393484 15476 ?        Ssl  яну19   0:01 /usr/libexec/fwupd/fwupd
+boyan      18443  0.0  0.0  12328  2400 pts/2    S+   яну19   0:00 man read
+boyan      18453  0.0  0.0  10976  1772 pts/2    S+   яну19   0:00 pager
+boyan      24038  0.3  6.2 1185895456 244516 ?   Sl   яну19   2:50 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=240 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=22082199740 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      24050  0.1  3.5 1184803868 137056 ?   Sl   яну19   1:04 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=241 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=22087795314 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       26058  0.0  0.0      0     0 ?        I    яну19   0:02 [kworker/2:1-events]
+boyan      26365  0.0  0.4 4951572 19472 ?       Sl   яну19   0:03 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv 5920 {2409D43B-880A-47A4-B675-71430269D0C7}
+boyan      27036  0.0  2.8 1184784356 109620 ?   Sl   яну19   0:04 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=391 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=24437823901 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       27122  0.0  0.0      0     0 ?        I    яну19   0:09 [kworker/0:1-events]
+root       27183  0.1  0.0      0     0 ?        I    09:37   0:05 [kworker/3:3-events]
+root       27194  0.0  0.0      0     0 ?        I    09:37   0:03 [kworker/u8:28-phy0]
+root       27206  0.0  0.0      0     0 ?        S    09:37   0:00 [irq/48-mei_me]
+root       27340  0.0  0.2  30972  8396 ?        Ss   09:37   0:00 /usr/sbin/cupsd -l
+root       27341  0.0  0.2 176356 11012 ?        Ssl  09:37   0:00 /usr/sbin/cups-browsed
+root       28375  0.1  0.0      0     0 ?        I    09:42   0:06 [kworker/2:2-events]
+root       28555  0.1  0.0      0     0 ?        I    09:49   0:04 [kworker/1:1-events]
+root       28556  0.0  0.0      0     0 ?        I    09:49   0:00 [kworker/0:0-events]
+boyan      31684  0.9  4.4 1184797948 174796 ?   Sl   10:21   0:15 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=431 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=27276742325 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      31959  0.1  0.5 4951572 20168 ?       Sl   10:27   0:02 /home/boyan/.vscode/extensions/ms-vscode.cpptools-1.14.0-linux-x64/bin/cpptools-srv 5920 {868F4B34-B435-405E-84B5-CD3206BF023C}
+root       32552  0.1  0.0      0     0 ?        I    10:32   0:01 [kworker/1:0-events]
+root       32952  0.0  0.0      0     0 ?        I    10:37   0:00 [kworker/u8:0-phy0]
+root       33510  0.0  0.0      0     0 ?        I    10:42   0:00 [kworker/u8:1-ext4-rsv-conversion]
+boyan      33572  2.8  4.4 1185870232 174608 ?   Sl   10:42   0:14 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=446 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28530520430 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      33607  0.1  3.1 1184775536 121728 ?   Sl   10:43   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=449 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28537291231 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+boyan      33623  0.2  3.3 1184811124 131192 ?   Sl   10:43   0:01 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=450 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28538213284 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       33655  0.1  0.0      0     0 ?        I    10:43   0:00 [kworker/3:0-events]
+boyan      33719  0.0  1.4 1184750408 57556 ?    Sl   10:46   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=6596 --enable-crash-reporter=fe9f235f-8fbe-413c-9635-eb19eaad5ce4, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=453 --time-ticks-at-unix-epoch=-1674134607920424 --launch-time-ticks=28762832202 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,7008221276939502354,1593280994575844718,131072
+root       33833  0.1  0.0      0     0 ?        I    10:48   0:00 [kworker/u8:2-events_unbound]
+boyan      33910  0.5  0.8 437404 33772 ?        Ssl  10:50   0:00 /usr/libexec/tracker-store
+boyan      34047  0.0  0.0  14028  3288 pts/1    R    10:51   0:00 ps aux
